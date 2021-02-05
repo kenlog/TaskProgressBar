@@ -1,0 +1,23 @@
+/*
+ * TaskProgressBar - Plugin for Kanboard
+ * Licensed under the MIT license - TaskProgressBar/LICENSE
+ * https://github.com/kenlog/TaskProgressBar
+ * Copyright (c) 2021 Valentino Pesce - https://github.com/kenlog
+ */
+
+ .container-task-progress-bar 
+ {
+   background-color: #8282822e;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   border-radius: 5px;
+ }
+
+ .task-progress-bar
+ {
+   height: 20px;
+   padding-right: 3px;
+   background: #f1f1f1; 
+   border-radius: 5px;
+ }
+ 
