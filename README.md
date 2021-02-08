@@ -7,9 +7,12 @@
 [![Latest release](https://img.shields.io/github/release/kenlog/TaskProgressBar.svg)](https://github.com/kenlog/TaskProgressBar/releases)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/kenlog/TaskProgressBar/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kenlog/TaskProgressBar/graphs/contributors)
+[![Downloads](https://img.shields.io/github/downloads/kenlog/TaskProgressBar/total.svg)](https://github.com/kenlog/TaskProgressBar/releases)
 
 # Task Progress Bar for kanboard
 Show the progress bar of sub-tasks from the bulletin board.
+
+![TaskProgressBar](https://user-images.githubusercontent.com/11728231/107194347-352ad880-69f0-11eb-87fc-5ff1846b062d.png)
 
 <noscript><a href="https://liberapay.com/kenlog/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 <a href="https://paypal.me/kenlog"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /></a>
